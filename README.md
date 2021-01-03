@@ -13,7 +13,7 @@ The data scientists at Big Mart have collected 2013 sales data for 1559 products
 Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 
 ## Dataset
-The dataset for this predictive modelling is taken from Kaggle. Below is the link of the dataset:
+The dataset for this predictive modelling is taken from Kaggle. Below is the link of the dataset:<br>
 https://www.kaggle.com/mrmorj/big-mart-sales
 
 ## Software
