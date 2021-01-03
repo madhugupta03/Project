@@ -13,20 +13,20 @@ The data scientists at Big Mart have collected 2013 sales data for 1559 products
 Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 
 ## Project Outline
-a) Import Libraries (pandas and numpy)
-b) Import dataset
-c) Identify variables and see the structure of the dataset
-d) Data Cleaning:
-   I. Identifying and imputing the columns with missing values 
-e) Feature Engineering
-f) Exploring the dataset:
-   I. Dropping columns used for creating new features
-  II. Divide into test and train
-g) Model building
-    I. Linear Regression Model
-    II. Ridge Regression Model
-    III. Decision Tree Model
-    IV. Random Forest
+a) Import Libraries (pandas and numpy)<br>
+b) Import dataset<br>
+c) Identify variables and see the structure of the dataset<br>
+d) Data Cleaning:<br>
+   I. Identifying and imputing the columns with missing values<br> 
+e) Feature Engineering<br>
+f) Exploring the dataset:<br>
+   I. Dropping columns used for creating new features<br>
+  II. Divide into test and train<br>
+g) Model building<br>
+    I. Linear Regression Model<br>
+    II. Ridge Regression Model<br>
+    III. Decision Tree Model<br>
+    IV. Random Forest<br>
 h) Conclusion:
 
 
