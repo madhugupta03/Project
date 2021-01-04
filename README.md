@@ -17,16 +17,16 @@ a) Import Libraries (pandas and numpy)<br>
 b) Import dataset<br>
 c) Identify variables and see the structure of the dataset<br>
 d) Data Cleaning:<br>
-   I. Identifying and imputing the columns with missing values<br> 
+     I. Identifying and imputing the columns with missing values<br> 
 e) Feature Engineering<br>
 f) Exploring the dataset:<br>
-   I. Dropping columns used for creating new features<br>
-  II. Divide into test and train<br>
+     I. Dropping columns used for creating new features<br>
+    II. Divide into test and train<br>
 g) Model building<br>
-    I. Linear Regression Model<br>
-    II. Ridge Regression Model<br>
-    III. Decision Tree Model<br>
-    IV. Random Forest<br>
+     I. Linear Regression Model<br>
+     II. Ridge Regression Model<br>
+     III. Decision Tree Model<br>
+     IV. Random Forest<br>
 h) Conclusion:
 
 
